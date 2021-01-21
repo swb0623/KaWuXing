@@ -1,0 +1,5 @@
+test_youhuima:
+  test_youhuima_01:
+    yhm : "12345"
+  test_youhuima_02:
+    yhm : "45678"
